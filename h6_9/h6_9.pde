@@ -9,3 +9,4 @@ if (Kaartjes && isdatvoor18plus || Begeleider) {
 } else {
   println ("Je mag er niet in");
 }
+print("dit is h6-5");
