@@ -17,7 +17,6 @@ void draw() {
   ellipse (250, y, 30, 30);
   ellipse (100, x, 30, 30);
   println(y);
-  line
   if (y <= 0)
     y = 500;
   println(x);
