@@ -1,8 +1,16 @@
 float y1 = 500;
 float x1 = 0;
 float x2 = 100;
+
+float[] cirkel = {10,20,50,85,110};
+
 void setup() {
 size(500,500);   
+
+cirkel[0] = 5;
+cirkel[3] = 20;
+for (int i = 0;i< cirkel.lengte;i++){
+println(crikel[i]);
 } 
 
  void draw() { 
